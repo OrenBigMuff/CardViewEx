@@ -6,8 +6,8 @@ android {
 
     defaultConfig {
         applicationId "com.bizan.mobile10.cardviewex"
-        minSdkVersion 16
-        targetSdkVersion 23
+        minSdkVersion 14
+        targetSdkVersion 17
         versionCode 1
         versionName "1.0"
     }
