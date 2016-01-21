@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CardViewEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="text">Now, let us move to our main layout file (activity_main.xml). We have added our ToolBar with the CardView component containing a layout that houses other View controls. The circular ImageView component was added using this xml code</string>
+</resources>
