@@ -56,7 +56,7 @@
                 android:layout_alignParentLeft="false"
                 android:layout_below="@+id/textBox2"
                 android:layout_marginTop="10dp"
-                android:text="Yeah!"
+                android:text="!"
                 android:layout_centerHorizontal="true"/>
 
         </RelativeLayout>
